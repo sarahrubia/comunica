@@ -1,16 +1,15 @@
-# Salesforce DX Project: Next Steps
+Use case involving the implementation of Salesforce in a telecommunications company to manage its products and sales, applying concepts of user permissions and access management; user interfaces with Lightning Pages and LWC; sales process with Apex; process automation (Flow), and much more.
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+# Account Record Page
+![Account Record Page](https://github.com/sarahrubia/comunica/assets/52300436/ced7431e-e09e-43dc-86f7-476eb6c4d8fe)
 
-## How Do You Plan to Deploy Your Changes?
+# Creating Order
+![Creating Order](https://github.com/sarahrubia/comunica/assets/52300436/8f4e026e-e992-4e39-8faf-4335d64cf119)
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+# Order created
+![Order created](https://github.com/sarahrubia/comunica/assets/52300436/1608bdd7-5a3d-42a1-bc4e-311a6099246e)
 
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
+## Read All About Salesforce Development
 
 - [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
