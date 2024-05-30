@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "comunica",
+  "namespace": "",
+  "sfdcLoginUrl": "https://sysmap-org-01--projetosr.sandbox.lightning.force.com/",
+  "sourceApiVersion": "59.0"
+}

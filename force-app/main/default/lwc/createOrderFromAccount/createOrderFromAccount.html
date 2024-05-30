@@ -1,0 +1,14 @@
+<template>
+  <lightning-quick-action-panel header="Produtos">
+    <lightning-dual-listbox name="products" label="Selecione o produto" source-label="Disponíveis"
+      selected-label="Selecionados" field-level-help="Selecione apenas um produto por família" options={productOptions}
+      max="4" value={selectedValues} onchange={handleProductChange} disabled-options={getDisabledOptions}
+      required></lightning-dual-listbox>
+
+    <div slot="footer" class="slds-m-bottom_medium">
+      <lightning-button label="Cancelar" onclick={handleCancel}></lightning-button>
+      <lightning-button variant="brand" label="Criar Pedido" class="slds-m-left_x-small"
+        onclick={handleCreateOrder}></lightning-button>
+    </div>
+  </lightning-quick-action-panel>
+</template>
